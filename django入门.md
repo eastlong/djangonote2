@@ -1,7 +1,7 @@
 # django笔记
 ## 1.1 项目开发流程
 项目开发流程图
-<p align="center"><img src="img/001.png" ></p>
+<p align="center"><img src="img/001.png" alt="word count"></p>
 
 
 ## 1.2 需求分析
