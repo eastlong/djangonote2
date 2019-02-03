@@ -1,7 +1,7 @@
 # django笔记
 ## 1.1 项目开发流程
 项目开发流程图
-<p align="center"><img src="img/项目开发流程图.png"  alt="Spark 1.x stack" ></p>
+<p align="center"><img src="img/001.png" ></p>
 
 ## 1.2 需求分析
 
@@ -23,10 +23,10 @@
 ## 1.3 系统架构
 功能架构图
 
-<p align="center"><img src="img/功能架构图.png"  alt="功能架构图" ></p> 
+<p align="center"><img src="https://github.com/eastlong/djangonote2/blob/master/img/%E5%8A%9F%E8%83%BD%E6%9E%B6%E6%9E%84%E5%9B%BE.PNG" ></p> 
 ## 1.4 项目部署
 项目部署图
 
-<p align="center"><img src="img/项目部署图.png"  alt="项目部署图" ></p> 
+<p align="center"><img src="img/项目部署图.png"  ></p> 
 
 ## 
